@@ -9,3 +9,6 @@ for i in range(a+1):
     if i in list1:
         list2.append(i)
 print(list2)
+
+##output##
+[1, 2, 4, 6, 84, 324, 526, 642, 1234, 4578]
