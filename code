@@ -8,5 +8,4 @@ for i in list1:
 for i in range(a+1):
     if i in list1:
         list2.append(i)
-        
 print(list2)
